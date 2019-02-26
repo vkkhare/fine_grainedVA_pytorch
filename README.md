@@ -5,9 +5,9 @@ Where to Focus: Deep Attention-based Spatially Recurrent Bilinear Networks for F
 
 ## Todo
 
-- [ ] write an efficient version of the retina
-- [x] reduce training from 130 epochs to 30 epochs
-- [ ] write custom loss and acc plotter
+- [ ] Implement attention in bilinear CNN
+- [ ] Transfer code from notebook to script 
+- [ ] reproduce results
 
 ## Abstract
 
