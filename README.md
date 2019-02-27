@@ -27,20 +27,7 @@ In this paper, we present a novel attention-based model to automatically, select
 The easiest way to start training your RAM variant is to edit the parameters in `config.py` and run the following command:
 
 ```
-python main.py
+python train.py
 ```
-
-To resume training, run the following command:
-
-```
-python main.py --resume=True
-```
-
-Finally, to test a checkpoint of your model that has achieved the best validation accuracy, run the following command:
-
-```
-python main.py --is_train=False
-```
-
 ## References
 
