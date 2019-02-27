@@ -19,8 +19,9 @@ In this paper, we present a novel attention-based model to automatically, select
 
 - python 3.5+
 - pytorch 0.3+
-- tensorboard_logger
-- tqdm
+- opencv
+- numpy
+- pandas 
 
 ## Usage
 
