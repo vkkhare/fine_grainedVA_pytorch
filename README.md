@@ -7,7 +7,7 @@ Where to Focus: Deep Attention-based Spatially Recurrent Bilinear Networks for F
 
 - [ ] Implement attention loss penalty
 - [ ] Implement multi-dimensional hidden state support using linear layers
-- [ ] expecttation bilinear pooled feature vector
+- [ ] expectation bilinear pooled feature vector
 - [ ] reproduce results
 
 ## Abstract
